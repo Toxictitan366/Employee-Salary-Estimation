@@ -1,0 +1,3 @@
+model,MAE_USD,RMSE_USD,R2
+Linear Regression,40002.25,53229.84,0.3522
+Random Forest,39398.01,52829.22,0.3619
